@@ -35,8 +35,8 @@ bash setup.sh
 ### 📚 GRPO/GSPO/SAPO/DAPO
 
 1. Download the [ThinkLite-VL-hard-11k](https://huggingface.co/datasets/russwang/ThinkLite-VL-hard-11k) , and we refer to the image dir as `<your_image_root>`.
-2. Change the `data_paths` and `image_folders` in the `run_scripts/` file.
-
+2. Change the `data_paths` and `image_folders` wthin the file in `run_scripts/` folder.
+3. Run the training code in   `run_scripts/` folder.
 
 ### For your own data
 
