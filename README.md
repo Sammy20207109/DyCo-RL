@@ -4,7 +4,7 @@
 <font size=4><div align='center'>[[📄 Tech Report](https://arxiv.org/abs/2504.07615)] </div></font>
 
 <div align="center">
-<img src="pipline.png" width="900"/>
+<img src="pipeline.png" width="900"/>
 <div>
   <font size=4>
     <p>🎉  <b>We propose DyCo-RL, a novel approach that embeds dynamic, token-level cross-modal coordination into the RLVR framework.</b></p>
