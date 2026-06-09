@@ -1,7 +1,7 @@
 # DyCo-RL: Dynamic Cross-Modal Coordination for Visual Reasoning
 
 
-<!-- <font size=4><div align='center'>[[📄 Tech Report](https://arxiv.org/abs/2504.07615)] </div></font> -->
+ <font size=4><div align='center'>[[📄Paper](https://arxiv.org/abs/2606.08035)] </div></font> 
 
 <div align="center">
 <img src="pipeline.png" width="900"/>
