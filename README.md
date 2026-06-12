@@ -1,7 +1,19 @@
 # DyCo-RL: Dynamic Cross-Modal Coordination for Visual Reasoning
 
 
- <font size=4><div align='center'>[[📄Paper](https://arxiv.org/abs/2606.08035)] </div></font> 
+<p align="center">
+    🌐 <a href="" target="_blank">Blog</a> | 📃 <a href="https://arxiv.org/abs/2606.08035" target="_blank">Paper</a> | 🤗 <a href="" target="_blank">Model</a> |  🤗 <a href="" target="_blank">Training_Data</a> 
+
+</p>
+
+
+
+#### [Hangui Lin <sup>2</sup>](https://scholar.google.com/citations?user=ofF4kxIAAAAJ&hl=en), [Yan Shu <sup>1</sup>](https://shuyansy.github.io/), [Zhengyang Liang <sup>3</sup>](https://liang-zhengyang.github.io/), [Chi Liu <sup>4</sup>](https://scholar.google.com/citations?user=abmQYmYAAAAJ&hl=zh-CN), [Xiangrui Liu <sup>2</sup>](https://openreview.net/profile?id=~Minghao_Qin1),  [Minghao Qin <sup>2</sup>](https://lxrrrrrr.github.io/), [Teng Long <sup>1</sup>](https://scholar.google.com/citations?user=5Iv3ul0AAAAJ&hl=en), [Zheng Liu <sup>2</sup>](https://scholar.google.com/citations?user=k2SF4M0AAAAJ&hl=en), [Nicu Sebe <sup>1</sup>](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en)
+
+<sup>1</sup> University of Trento, Italy, <br>
+<sup>2</sup> Beijing Academy of Artificial Intelligence (BAAI), <br>
+<sup>3</sup> Singapore Management University <br>
+<sup>4</sup> IQuest Research <br>
 
 <div align="center">
 <img src="pipeline.png" width="900"/>
