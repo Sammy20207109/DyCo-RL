@@ -100,13 +100,10 @@ python run.py  --data  xxxbench  --model Qwen2.5-VL-3B-Instruct  --verbose
 ## Citation
 If you find this work useful for your research, please cite our paper :
 ```
-@misc{lin2026dycorldynamiccrossmodalcoordination,
-      title={DyCo-RL: Dynamic Cross-Modal Coordination for Visual Reasoning}, 
-      author={Hangui Lin and Yan Shu and Zhengyang Liang and Chi Liu and Xiangrui Liu and Minghao Qin and Teng Long and Zheng Liu and Nicu Sebe},
-      year={2026},
-      eprint={2606.08035},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2606.08035}, 
+@article{lin2026dyco,
+  title={DyCo-RL: Dynamic Cross-Modal Coordination for Visual Reasoning},
+  author={Lin, Hangui and Shu, Yan and Liang, Zhengyang and Liu, Chi and Liu, Xiangrui and Qin, Minghao and Long, Teng and Liu, Zheng and Sebe, Nicu},
+  journal={arXiv preprint arXiv:2606.08035},
+  year={2026}
 }
 ```
