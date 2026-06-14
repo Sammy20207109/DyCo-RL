@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    🌐 <a href="" target="_blank">Blog</a> | 📃 <a href="https://arxiv.org/abs/2606.08035" target="_blank">Paper</a> | 🤗 <a href="https://huggingface.co/LinYuanMo/DyCo-RL-Qwen2.5-VL-3B" target="_blank">Model</a> |  🤗 <a href="https://huggingface.co/datasets/russwang/ThinkLite-VL-hard-11k" target="_blank">Training_Data</a> 
+    🌐 <a href="" target="_blank">Blog</a> | 📃 <a href="https://arxiv.org/abs/2606.08035" target="_blank">Paper</a> | 🤗 <a href="https://huggingface.co/collections/LinYuanMo/dyco-rl" target="_blank">Model</a> |  🤗 <a href="https://huggingface.co/datasets/russwang/ThinkLite-VL-hard-11k" target="_blank">Training_Data</a> 
 
 </p>
 
